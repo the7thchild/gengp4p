@@ -1,7 +1,7 @@
 # gengp4p
 A program to generate PSVita Publishing Tool GP4P file from a directroy
 
-Usage: gengp4 <directory name> <output path>
+Usage: gengp4 "<directory name"> "<output path">
 Precaution: If your folder contains:
 1. sce_sys\about
 2. sce_sys\clearsign
